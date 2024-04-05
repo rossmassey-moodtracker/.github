@@ -30,7 +30,7 @@ React frontend, available [here in AWS S3](http://moodtracker-react-frontend-gh.
 [ ] get API running in AWS
 [ ] add login component to frontend
 [ ] add weather access through API
-[ ] seed user database with historical database for demonstration
+[ ] seed user database with dummy data for demonstration
 [ ] add data analysis and predictors for logged moods
 [ ] improve UI
 ```
