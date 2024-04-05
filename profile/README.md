@@ -11,11 +11,11 @@ it correlates to things such as weather.
 
 ### [moodtracker-api](https://github.com/rossmassey-moodtracker/moodtracker-api)
 
-Django backend, available [here in AWS ECS](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
+Django backend, acessible [here (AWS ECS)](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
 
 ### [moodtracker-ui](https://github.com/rossmassey-moodtracker/moodtracker-ui)
 
-React frontend, available [here in AWS S3](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
+React frontend, acessible [here (AWS S3)](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
 
 ## Tasks
 
@@ -24,7 +24,7 @@ React frontend, available [here in AWS S3](http://moodtracker-react-frontend-gh.
 [X] set up basic containerized backend with token authnentication
 [X] set up basic frontend
 [X] deploy frontend to S3
-[X] get API running in AWS
+[X] deploy backend to ECR/ECS
 ```
 ### Todo
 ```
