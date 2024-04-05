@@ -2,10 +2,20 @@
 
 ## Description
 
-This Django/React based application will let users log their mood.
+This application will let users log their mood.
 
 It will display metrics and predictors about their logged mood (for fun), showing how
 it correlates to things such as weather.
+
+## Repos
+
+### [moodtracker-api](https://github.com/rossmassey-moodtracker/moodtracker-api)
+
+Django backend, current not deployed
+
+### [moodtracker-ui](https://github.com/rossmassey-moodtracker/moodtracker-ui)
+
+React frontend, available [here in AWS S3](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
 
 ## Tasks
 
