@@ -28,6 +28,7 @@ React frontend, acessible [here (AWS S3)](http://moodtracker-react-frontend-gh.s
 ```
 ### Todo
 ```
+[ ] hook up deployed frontend to backend
 [ ] add login component to frontend
 [ ] add weather access through API
 [ ] seed user database with dummy data for demonstration
