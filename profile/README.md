@@ -12,16 +12,15 @@ it correlates to things such as weather.
 ### [moodtracker-api](https://github.com/rossmassey-moodtracker/moodtracker-api)
 
 Django backend
-
-Deployed [here (on AWS ECS)](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
-
-Uses AWS RDS (PostgreSQL) for the database
+- Pulls a container from AWS ECR and runs on ECS
+- Connects to a PostgreSQL database hosted on RDS
+- [http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
 
 ### [moodtracker-ui](https://github.com/rossmassey-moodtracker/moodtracker-ui)
 
 React frontend
-
-Deployed [here (on AWS S3)](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
+- Static deployment to a publically accessible AWS S3 bucket
+- [http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
 
 ## Tasks
 
