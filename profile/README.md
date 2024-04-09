@@ -11,11 +11,17 @@ it correlates to things such as weather.
 
 ### [moodtracker-api](https://github.com/rossmassey-moodtracker/moodtracker-api)
 
-Django backend, acessible [here (AWS ECS)](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
+Django backend
+
+Deployed [here (on AWS ECS)](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
+
+Uses AWS RDS (PostgreSQL) for the database
 
 ### [moodtracker-ui](https://github.com/rossmassey-moodtracker/moodtracker-ui)
 
-React frontend, acessible [here (AWS S3)](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
+React frontend
+
+Deployed [here (on AWS S3)](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
 
 ## Tasks
 
