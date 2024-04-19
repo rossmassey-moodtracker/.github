@@ -24,7 +24,7 @@ React frontend
 
 | Username | Password |
 | --- | --- |
-| test | testpass |
+| test | moodtracker |
 
 ## Tasks
 
