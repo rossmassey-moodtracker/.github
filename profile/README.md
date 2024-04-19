@@ -22,6 +22,10 @@ React frontend
 - Static deployment to a publically accessible AWS S3 bucket
 - [http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
 
+| Username | Password |
+| --- | --- |
+| test | testpass |
+
 ## Tasks
 
 ### Finished
@@ -30,11 +34,11 @@ React frontend
 [X] set up basic frontend
 [X] deploy frontend to S3
 [X] deploy backend to ECR/ECS
+[X] hook up deployed frontend to backend
+[X] add login component to frontend
 ```
 ### Todo
 ```
-[ ] hook up deployed frontend to backend
-[ ] add login component to frontend
 [ ] add weather access through API
 [ ] seed user database with dummy data for demonstration
 [ ] add data analysis and predictors for logged moods
