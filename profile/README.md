@@ -41,6 +41,8 @@ React frontend
 ```
 [ ] add form to log mood
 [ ] add weather access through API
+   [ ] https://developers.google.com/maps/documentation/geocoding/start (get lat/lon from city input for users with no lcoation tracking)
+   [ ] https://openweathermap.org/ (get weather from lat/lon)
 [ ] seed user database with dummy data for demonstration
 [ ] add data analysis and predictors for logged moods
 [ ] improve UI
