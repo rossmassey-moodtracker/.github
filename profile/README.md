@@ -39,6 +39,7 @@ React frontend
 ```
 ### Todo
 ```
+[ ] add form to log mood
 [ ] add weather access through API
 [ ] seed user database with dummy data for demonstration
 [ ] add data analysis and predictors for logged moods
