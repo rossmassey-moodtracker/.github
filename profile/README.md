@@ -4,7 +4,7 @@
 
 This application will let users log their mood.
 
-It will display metrics and predictors about their logged mood (for fun), showing how
+It will eventually display metrics and predictors about their logged mood (for fun), showing how
 it correlates to things such as weather.
 
 ## Repos
@@ -14,13 +14,13 @@ it correlates to things such as weather.
 Django backend
 - Pulls a container from AWS ECR and runs on ECS
 - Connects to a PostgreSQL database hosted on RDS
-- [http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)
+- **[View](http://moodtracker-api-load-balanacer-129190309.us-west-1.elb.amazonaws.com/)**
 
 ### [moodtracker-ui](https://github.com/rossmassey-moodtracker/moodtracker-ui)
 
 React frontend
-- Static deployment to a publically accessible AWS S3 bucket
-- [http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)
+- Static deployment to a publicly accessible AWS S3 bucket
+- **[View](http://moodtracker-react-frontend-gh.s3-website-us-west-1.amazonaws.com/)**
 
 | Username | Password |
 | --- | --- |
