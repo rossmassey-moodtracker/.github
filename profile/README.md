@@ -36,15 +36,15 @@ React frontend
 [X] deploy backend to ECR/ECS
 [X] hook up deployed frontend to backend
 [X] add login component to frontend
+[X] add form to log mood
+[X] add weather access through API
 ```
 ### Todo
 ```
-[ ] add form to log mood
-[ ] add weather access through API
-   [ ] https://developers.google.com/maps/documentation/geocoding/start (get lat/lon from city input for users with no lcoation tracking)
-   [ ] https://openweathermap.org/ (get weather from lat/lon)
+[ ] add location data to mood logs
+[ ] show weather info in ui
 [ ] seed user database with dummy data for demonstration
 [ ] add data analysis and predictors for logged moods
-[ ] improve UI
+[ ] improve UI look
 ```
 
